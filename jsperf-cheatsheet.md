@@ -1,4 +1,4 @@
-JavaScript Performance CheatSheet
+#JavaScript Performance CheatSheet
 
  - $().eq(0) => $().first() => $(":first")
 
